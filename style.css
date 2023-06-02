@@ -1,0 +1,59 @@
+#insta{
+    transition: 0.3s; 
+}
+#insta:hover{
+    transform:scale(1.5);
+    cursor:pointer;
+    
+}
+#portfolio img{
+    transition: 0.3s;
+}
+
+#portfolio img:hover{
+transform:scale(1.2);
+cursor:pointer;
+
+}
+header h2{
+    transition: 0.3s;
+}
+header h2:hover{
+    cursor:pointer;
+color:rgb(158, 154, 222);
+transform:scale(1.05);
+}
+#home h4 ,#home p,#home img{
+    transition: 0.3s;
+}
+#home h4:hover,#home p:hover,#home img:hover{
+    cursor:pointer;
+color:rgb(40, 101, 181);
+transform:scale(1.05);
+}
+header a{
+    transition: 0.3s;
+}
+
+header a:hover{
+    cursor:pointer;
+color:rgb(158, 154, 222);
+transform:scale(1.1);
+}
+#skills h1:hover {
+cursor: pointer;
+}
+#skills h6:hover {
+    cursor: pointer;
+    }
+    #skills{
+        transition: 0.3s;
+    }
+    #skills:hover{
+        transform:scale(1.1);
+    }
+   .card-body:hover{
+       cursor: pointer;
+       background-color: antiquewhite;
+       transform:scale(1.05);
+    }
